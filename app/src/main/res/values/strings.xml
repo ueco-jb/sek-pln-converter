@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SEK to PLN</string>
+    <string name="sek_input"></string>
+    <string name="sek_label">SEK</string>
+    <string name="pln_output"></string>
+    <string name="pln_label">PLN</string>
+    <string name="convert_button">Convert</string>
+</resources>
